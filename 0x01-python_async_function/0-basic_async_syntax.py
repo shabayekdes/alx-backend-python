@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+'''Task wait_random module.
+'''
 import asyncio
 import random
 
